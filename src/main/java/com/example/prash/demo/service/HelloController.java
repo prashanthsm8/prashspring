@@ -11,6 +11,6 @@ public class HelloController {
     @GetMapping("/hello")
     public String getCall()
     {
-        return "Hi there this is prashanth";
+        return "Hi there this is prashanthsm";
     }
 }
